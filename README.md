@@ -1,6 +1,6 @@
 # OpenSUSE Tumbleweed Setup Scripts
 
-**Now with improved code in version 2.1.0 and beyond!**
+**Now with improved code in version 2.1.1 and beyond!**
 
 This is a set of scripts that can help in configuring and setting up repositories, codecs, packages and configure applications or systems for daily use.
 
